@@ -5,3 +5,4 @@ Take 2 images.
 give the path  for images in scripts.  
 select 4 points in 1st image and then press esc key. Next select 4 points in another image.
 use the the resulting co ordintates at ipynb notebook. as src & dst key.
+note map size 540,960 and image size (480,540)
